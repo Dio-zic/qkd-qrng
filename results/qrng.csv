@@ -1,0 +1,7 @@
+cenario,etapa,n,frac_uns,p_monobit,p_runs,p_qui2_bytes
+ideal,bruto,200000,0.4985,0.1783,0.8577,0.4775
+ideal,von Neumann,50065,0.5011,0.6325,0.2324,0.254
+leitura 2%/5%,bruto,200000,0.4837,0.0,0.0,0.0
+leitura 2%/5%,von Neumann,49890,0.5001,0.9714,0.113,0.7627
+leitura 5%/15%,bruto,200000,0.4492,0.0,0.0,0.0
+leitura 5%/15%,von Neumann,49367,0.5009,0.6755,0.3511,0.4565
